@@ -1,4 +1,4 @@
-👋🔭📫 📫 📫 📫 📫 ⚡![logo](https://github.com/Hemanthveera02/Hemanthveera02/blob/main/aws%20devops%20ENGINEER.png)
+👋🔭📫 📫 📫 📫  ⚡![logo](https://github.com/Hemanthveera02/Hemanthveera02/blob/main/aws%20devops%20ENGINEER.png)
 <h1 align="center">Hi 👋, I'm Hemanth Veera</h1>
 <h3 align="center">A passionate AWS Devops Engineer from India</h3>
 
