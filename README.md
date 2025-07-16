@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AWS Devops Engineer**
 
-- 📫 How to reach me **hemanthv.marolix@gmail.com**
+- 📫 How to reach me **hemanthvenkatasai143@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
 
