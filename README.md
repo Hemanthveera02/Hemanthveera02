@@ -1,14 +1,14 @@
 👋🔭📫 📫 📫 📫 ⚡![logo](https://github.com/Hemanthveera02/Hemanthveera02/blob/main/Tech%20Consultant%20business%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hemanth Veera</h1>
-<h3 align="center">A passionate AWS Devops Engineer from India</h3>
+<h3 align="center">A passionate cyber security analyst  from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthveera02&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthveera02" /> </p>
 
-- 🔭 I’m currently working on **AWS Devops Engineer**
+- 🔭 I’m currently working on **Cloud Security Engineer**
 
-- 📫 How to reach me **hemanthvenkatasai143@gmail.com**
+- 📫 How to reach me **vhemanthvenkata777@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
 
